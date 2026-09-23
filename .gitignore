@@ -1,0 +1,14 @@
+# Data
+data/
+
+# Virtual Environment
+.venv/
+venv/
+
+# Python cache & Jupyter checkpoints
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Windows artifacts
+*:Zone.Identifier
